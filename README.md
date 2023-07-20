@@ -16,7 +16,7 @@ pip3 install pytz && pip3 install python-dateutil && pip3 install beautifulsoup4
 Create a config file (config.txt) first. Then run the mailsearcher.py file or use the pre-compiled executable file
 
 ## Configuration
-Since the config file use `;` to separate the items, please **DO NOT** use `;` in the email filename.
+Since the config file use `;` to separate the items, please **DO NOT** use `;` in the email filename. The config file **MUST** be stored in the **SAME** directory as the Python file or the executable file.
 
 ### Configuration explanation
 |Item|Explanation|Remark|
